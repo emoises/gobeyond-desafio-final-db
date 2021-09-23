@@ -1,0 +1,40 @@
+{
+    "photos": [
+        {
+            "albumId": 1,
+            "id": 1,
+            "title": "accusamus beatae ad facilis cum similique qui sunt",
+            "url": "https://raw.githubusercontent.com/emoises/gobeyond-desafio-final-db/master/images/imagem0.jpg",
+            "thumbnailUrl": "https://raw.githubusercontent.com/emoises/gobeyond-desafio-final-db/master/thumbnails/imagem0-thumbs.png",
+            "link": "https://www.corebiz.ag/pt/about/",
+            "label": "a corebiz"
+        },
+        {
+            "albumId": 1,
+            "id": 2,
+            "title": "accusamus beatae ad facilis cum similique qui sunt",
+            "url": "https://raw.githubusercontent.com/emoises/gobeyond-desafio-final-db/master/images/imagem1.jpg",
+            "thumbnailUrl": "https://raw.githubusercontent.com/emoises/gobeyond-desafio-final-db/master/thumbnails/imagem1-thumbs.png",
+            "link": "https://www.corebiz.ag/pt/#framework-title",
+            "label": "serviços"
+        },
+        {
+            "albumId": 1,
+            "id": 3,
+            "title": "accusamus beatae ad facilis cum similique qui sunt",
+            "url": "https://raw.githubusercontent.com/emoises/gobeyond-desafio-final-db/master/images/imagem2.jpg",
+            "thumbnailUrl": "https://raw.githubusercontent.com/emoises/gobeyond-desafio-final-db/master/thumbnails/imagem2-thumbs.png",
+            "link": "https://www.corebiz.ag/pt/cases/",
+            "label": "cases"
+        },
+        {
+            "albumId": 1,
+            "id": 4,
+            "title": "accusamus beatae ad facilis cum similique qui sunt",
+            "url": "https://raw.githubusercontent.com/emoises/gobeyond-desafio-final-db/master/images/imagem3.jpg",
+            "thumbnailUrl": "https://raw.githubusercontent.com/emoises/gobeyond-desafio-final-db/master/thumbnails/imagem3-thumbs.png",
+            "link": "https://www.corebiz.ag/pt/contato/",
+            "label": "contato"
+        }
+    ]
+}
